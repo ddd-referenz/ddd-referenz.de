@@ -21,4 +21,4 @@ Creative-Commons-Attribution-Lizenz.
 Zur Zeit ist noch kein Download des eBooks möglich.
 
 Der Quellcode als Markdown findet sich unter
-https://github.com/ddd-referenz/ddd-referenz .
+[https://github.com/ddd-referenz/ddd-referenz](https://github.com/ddd-referenz/ddd-referenz) .
