@@ -1,9 +1,24 @@
 ---
 layout: default
-title: "DDD Referenz"
-description: 
+title: "Domain-driven Design (DDD) Referenz"
+description: Homepage für die Domain-driven Design Referenz von Eric Evans
 ---
 
 # DDD Referenz
 
-Nothing to be seen here.
+Die Domain-driven Design Referenz gibt einen Überblick über die
+grundlegenden Pattern für Domain-driven Design. Domain-driven Design
+ist ein Ansatz für die Architektur und das Design von
+Software-Projekten, das sich konsequent nach den fachlichen
+Anforderungen richtet.
+
+Die Referenz wurde vom Erfinder von DDD, Eric Evans, in Englisch
+verfasst. Da das Werk unter einer Creative-Commons-Attribution-Lizenz
+steht, war es problemlos möglich, dier Referenz auf Deutsch zu
+übersetzen. Auch die deutsche Version steht unter einer
+Creative-Commons-Attribution-Lizenz.
+
+Zur Zeit ist noch kein Download des eBooks möglich.
+
+Der Quellcode als Markdown findet sich unter
+https://github.com/ddd-referenz/ddd-referenz .
