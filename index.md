@@ -12,7 +12,7 @@ ist ein Ansatz für die Architektur und das Design von
 Software-Projekten, das sich konsequent nach den fachlichen
 Anforderungen richtet.
 
-<img src="images/DDD_cover.png" width="50%" /> 
+<img src="images/DDD_Cover.png" width="50%" /> 
 
 Die Referenz wurde vom Erfinder von DDD, Eric Evans, in Englisch
 verfasst. Da das Werk unter einer Creative-Commons-Attribution-Lizenz
