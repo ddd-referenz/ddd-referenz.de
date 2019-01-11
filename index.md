@@ -20,7 +20,7 @@ steht, war es problemlos möglich, dier Referenz auf Deutsch zu
 übersetzen. Auch die deutsche Version steht unter einer
 Creative-Commons-Attribution-Lizenz.
 
-Zur Zeit ist noch kein Download des eBooks möglich.
+Der KOSTENLOSE Download für das eBook findet sich bei [Leanpub](https://leanpub.com/ddd-referenz/).
 
 Der Quellcode als Markdown findet sich unter
 [https://github.com/ddd-referenz/ddd-referenz](https://github.com/ddd-referenz/ddd-referenz) .
