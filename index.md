@@ -16,7 +16,7 @@ Anforderungen richtet.
 
 Die Referenz wurde vom Erfinder von DDD, Eric Evans, in Englisch
 verfasst. Da das Werk unter einer Creative-Commons-Attribution-Lizenz
-steht, war es problemlos möglich, dier Referenz auf Deutsch zu
+steht, war es problemlos möglich, die Referenz auf Deutsch zu
 übersetzen. Auch die deutsche Version steht unter einer
 Creative-Commons-Attribution-Lizenz.
 
