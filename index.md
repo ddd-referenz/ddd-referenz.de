@@ -22,6 +22,8 @@ Creative-Commons-Attribution-Lizenz.
 
 Der KOSTENLOSE Download für das eBook findet sich bei [Leanpub](https://leanpub.com/ddd-referenz/).
 
+Es gibt auch eine kostenpflichtige Version für [Amazon Kindle](https://amzn.to/2RPjjit).
+
 Die englische Version findet sich auf bei [Domain Language](https://domainlanguage.com/ddd/reference/).
 
 Der Quellcode als Markdown findet sich unter
