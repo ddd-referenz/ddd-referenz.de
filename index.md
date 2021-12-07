@@ -24,6 +24,8 @@ Der KOSTENLOSE Download für das eBook findet sich bei [Leanpub](https://leanpub
 
 Es gibt auch eine kostenpflichtige Version für [Amazon Kindle](https://amzn.to/2RPjjit).
 
+Ebenso gibt es eine gedruckte Version bei [Amazon](https://amzn.to/2Hir78i).
+
 Die englische Version findet sich auf bei [Domain Language](https://domainlanguage.com/ddd/reference/).
 
 Der Quellcode als Markdown findet sich unter
